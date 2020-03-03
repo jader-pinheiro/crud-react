@@ -1,0 +1,8 @@
+footer.footer{
+    display:flex;
+    align-items: flex-end;
+    padding: 0 25px;
+    background-color: darkgray;
+    box-shadow: var(--shadow);
+
+}

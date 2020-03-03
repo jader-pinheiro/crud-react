@@ -1,0 +1,14 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "Jader Moura Pinheiro",
+      "email": "jader@aswti.com.br"
+    },
+    {
+      "id": 2,
+      "name": "Clarissa Moura Pinheiro",
+      "email": "clarissa@aswti.com.br"
+    }
+  ]
+}
